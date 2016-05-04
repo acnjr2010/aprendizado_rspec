@@ -10,6 +10,35 @@
         2,
         null,
         2,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
         null
       ],
       "/home/antonio/dev/demo_tdd/spec/rails_helper.rb": [
@@ -255,9 +284,9 @@
       "/home/antonio/dev/demo_tdd/spec/factories/bands.rb": [
         1,
         1,
-        1,
-        1,
-        1,
+        4,
+        4,
+        4,
         null,
         null
       ],
@@ -342,6 +371,6 @@
         null
       ]
     },
-    "timestamp": 1462327721
+    "timestamp": 1462385185
   }
 }
