@@ -5,7 +5,9 @@
         1,
         null,
         1,
-        1,
+        2,
+        2,
+        2,
         null
       ],
       "/home/antonio/dev/demo_tdd/spec/rails_helper.rb": [
@@ -321,9 +323,10 @@
       ],
       "/home/antonio/dev/demo_tdd/app/models/band.rb": [
         1,
+        1,
         null
       ]
     },
-    "timestamp": 1462325004
+    "timestamp": 1462326940
   }
 }
