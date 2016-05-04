@@ -8,6 +8,8 @@
         2,
         2,
         2,
+        null,
+        2,
         null
       ],
       "/home/antonio/dev/demo_tdd/spec/rails_helper.rb": [
@@ -259,6 +261,14 @@
         null,
         null
       ],
+      "/home/antonio/dev/demo_tdd/spec/factories/musics.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "/home/antonio/dev/demo_tdd/config/routes.rb": [
         1,
         null,
@@ -324,9 +334,21 @@
       "/home/antonio/dev/demo_tdd/app/models/band.rb": [
         1,
         1,
+        1,
+        null
+      ],
+      "/home/antonio/dev/demo_tdd/spec/models/music_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/home/antonio/dev/demo_tdd/app/models/music.rb": [
+        1,
         null
       ]
     },
-    "timestamp": 1462326940
+    "timestamp": 1462327491
   }
 }
