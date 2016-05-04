@@ -1,42 +1,23 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/antonio/dev/demo_tdd/spec/models/band_spec.rb": [
+      "/home/antonio/dev/demo_tdd/spec/controllers/band_controller_spec.rb": [
         1,
         null,
         1,
-        2,
-        2,
-        2,
+        1,
         null,
         2,
         null,
         null,
-        null,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
-        null,
-        1,
-        1,
-        1,
         1,
         1,
         null,
         null,
         1,
         1,
-        1,
-        1,
         null,
         null,
-        1,
-        1,
-        1,
-        1,
         null,
         null,
         null
@@ -284,22 +265,24 @@
       "/home/antonio/dev/demo_tdd/spec/factories/bands.rb": [
         1,
         1,
-        4,
-        4,
-        4,
+        14,
+        14,
+        14,
         null,
         null
       ],
       "/home/antonio/dev/demo_tdd/spec/factories/musics.rb": [
         1,
         1,
-        1,
-        1,
+        3,
+        3,
         null,
         null
       ],
       "/home/antonio/dev/demo_tdd/config/routes.rb": [
         1,
+        1,
+        null,
         null,
         null,
         null,
@@ -360,6 +343,81 @@
         1,
         null
       ],
+      "/home/antonio/dev/demo_tdd/app/helpers/band_helper.rb": [
+        1,
+        null
+      ],
+      "/home/antonio/dev/demo_tdd/app/controllers/band_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/antonio/dev/demo_tdd/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/home/antonio/dev/demo_tdd/spec/helpers/band_helper_spec.rb": [
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/home/antonio/dev/demo_tdd/spec/models/band_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        null,
+        2,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
       "/home/antonio/dev/demo_tdd/app/models/band.rb": [
         1,
         1,
@@ -403,6 +461,6 @@
         null
       ]
     },
-    "timestamp": 1462386572
+    "timestamp": 1462395370
   }
 }
